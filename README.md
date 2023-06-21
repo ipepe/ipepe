@@ -15,6 +15,7 @@ A few randomly selected posts from my blog:
 ## 🔧 Technologies & Tools
 - Using ChatGPT since December 2022
 - Using Github Copilot since July 2022
+- Using Gitlab since January 2017
 - Using ZFS since March 2016
 - Using Docker since December 2015
 - Using RubyMine since July 2015
