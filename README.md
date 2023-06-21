@@ -10,7 +10,7 @@ A few randomly selected posts from my blog:
 - [Boost Your Efficiency as a Developer with These 3 Mac OS Hacks](https://blog.ipepe.pl/2022/10/09/my-3-mac-os-hacks-that-help-developers/)
 - [Building a Powerful Crawler using Javascrit in the Cloud](https://blog.ipepe.pl/2021/04/06/javascript-cloud-crawler/)
 - [How to setup global gitignore](https://blog.ipepe.pl/2020/11/11/global-gitignore/)
-- [Paperclip + UFS = Disaster](https://blog.ipepe.pl/2017/02/10/paperclip-ufs-disaster/)
+- [Flat file structure in Paperclip + UFS = Disaster](https://blog.ipepe.pl/2017/02/10/paperclip-ufs-disaster/)
 
 ## 🔧 Technologies & Tools
 - Using ChatGPT since December 2022
