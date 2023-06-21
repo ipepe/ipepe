@@ -8,7 +8,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A few randomly selected posts from my blog:
 
 - [Boost Your Efficiency as a Developer with These 3 Mac OS Hacks](https://blog.ipepe.pl/2022/10/09/my-3-mac-os-hacks-that-help-developers/)
-- [Javascript Cloud Crawler](https://blog.ipepe.pl/2021/04/06/javascript-cloud-crawler/)
+- [Building a Powerful Crawler using Javascrit in the Cloud](https://blog.ipepe.pl/2021/04/06/javascript-cloud-crawler/)
 - [How to setup global gitignore](https://blog.ipepe.pl/2020/11/11/global-gitignore/)
 - [Paperclip + UFS = Disaster](https://blog.ipepe.pl/2017/02/10/paperclip-ufs-disaster/)
 
