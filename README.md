@@ -17,10 +17,11 @@ Here are some handpicked posts from my blog:
 
 In my tech journey, I've used various tools and technologies. Here's a quick timeline:
 
-- Ruby on Rails since February 2015
 - NodeJS since November 2014
+- Ruby on Rails since February 2015
 - Docker since December 2015
 - ZFS since March 2016
+- Cloudflare since July 2016
 - GitLab since January 2017
 - GitHub Copilot since July 2022
 - ChatGPT since December 2022
