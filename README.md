@@ -27,7 +27,7 @@ In my tech journey, I've used various tools and technologies. Here's a quick tim
 
 My go-to language is Ruby and my preferred framework is Rails.
 
-## Projects
+## 🛠️ Public Projects
 
 Over the years, I've worked on various projects. Below are some recent and notable ones:
 
