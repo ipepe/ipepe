@@ -40,6 +40,11 @@ Over the years, I've worked on various projects. Below are some recent and notab
 * **Ongoing:** [pnpr](https://github.com/ipepe/pnpr) - Regularly updated and upgraded.
 * **Ongoing:** [ipepe's blog](https://blog.ipepe.pl) - Regular posts and updates on various topics.
 
+### 2020
+
+* **New:** Quick website that helps with 3 Point Estimation: <https://3pe.ipepe.pl/>
+  * <https://github.com/ipepe/three-point-estimation>
+
 ### 2019
 
 * **New/Paused:** [WebLab](https://github.com/ipepe/WebLab) - A solution designed to serve static websites from zip archive files on the fly.
