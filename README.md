@@ -1,4 +1,4 @@
-# Hello there, I'm Patryk Ptasiński 👋
+# 👋 Hello there, I'm Patryk Ptasiński 
 
 Pragmatic Software Engineer with over a decade of diverse experience, specializing in optimizing legacy Ruby on Rails monolithic applications and complimenting them with Serverless or Microservice structures. Demonstrated management skills with quick learning ability and effective communication. Active in open-source community and proficient in security and performance optimization.
 
